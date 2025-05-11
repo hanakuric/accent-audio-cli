@@ -54,7 +54,7 @@ brew install python git ffmpeg
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-org/accent-cli.git
+   git clone https://github.com/hanakuric/accent-audio-cli.git
    cd accent-cli
    ```
 
