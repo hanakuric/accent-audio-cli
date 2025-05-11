@@ -1,0 +1,9 @@
+yt-dlp
+tqdm
+requests
+openai>=1.0.0
+transformers
+torchaudio
+python-dotenv
+click
+ffmpeg-python
