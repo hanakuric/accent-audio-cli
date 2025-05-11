@@ -55,7 +55,7 @@ brew install python git ffmpeg
 
    ```bash
    git clone https://github.com/hanakuric/accent-audio-cli.git
-   cd accent-cli
+   cd accent-audio-cli
    ```
 
 2. **Create & activate a virtual environment**
