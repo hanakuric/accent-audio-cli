@@ -1,5 +1,6 @@
 yt-dlp
-ffmpeg-python
+moviepy
+imageio-ffmpeg
 transformers
 torchaudio
 click
